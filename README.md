@@ -23,7 +23,7 @@ This Tampermonkey script adds a customizable theme selector to the HCDSB D2L (De
 
 3. Delete any existing code in the editor
 
-4. Copy and paste the entire script from the `hcdsb_d2l_lms_theme_selector.js` file in this repository
+4. Copy and paste the entire script from the `hcdsb_lms_theme_selector.js` file in this repository
 
 5. Click File -> Save or press Ctrl+S to save the script
 
